@@ -1,0 +1,38 @@
+10
+
+dir
+4
+https://srv1/svn/TestB/trunk/Model/src/spr
+https://srv1/svn/TestB
+
+
+
+2012-11-01T10:47:58.282774Z
+4
+bogdant
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83a99411-ba07-3e4b-bf9c-cfa6f0dfb607
+
+
+
+
+
+
+0
+
+model
+dir
+

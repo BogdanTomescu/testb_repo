@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/TestB/!svn/ver/2/trunk/Model/src/ent
+END
+Emp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TestB/!svn/ver/6/trunk/Model/src/ent/Emp.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TestB/!svn/ver/2/trunk/Model/src/ent/package.html
+END
+FkDeptnoAssoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TestB/!svn/ver/5/trunk/Model/src/ent/FkDeptnoAssoc.xml
+END
+EmpImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TestB/!svn/ver/6/trunk/Model/src/ent/EmpImpl.java
+END
+DeptImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TestB/!svn/ver/5/trunk/Model/src/ent/DeptImpl.java
+END
+Dept.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TestB/!svn/ver/5/trunk/Model/src/ent/Dept.xml
+END
